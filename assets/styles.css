@@ -1,0 +1,24 @@
+body {
+  font-family: "Helvetica Neue", sans-serif;
+  background: linear-gradient(135deg, #f3e5f5, #ffffff);
+  color: #4a148c;
+  text-align: center;
+  padding-top: 10%;
+}
+
+h1 {
+  font-size: 2.4em;
+  margin-bottom: 0.5em;
+}
+
+p {
+  font-size: 1.2em;
+  color: #6a1b9a;
+}
+
+.quote {
+  font-size: 1.3em;
+  font-style: italic;
+  margin-top: 2em;
+  color: #8e24aa;
+}
